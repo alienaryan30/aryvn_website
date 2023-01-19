@@ -1,0 +1,17 @@
+/* Font import */
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300&display=swap');
+
+/* Reseting default settings */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    font-family: 'Unbounded', cursive;
+
+}
+/* Styling div header */
+div.header {
+    padding-top: 0;
+    padding-bottom: 0;
+}
